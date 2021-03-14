@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SQLite</string>
+    <string name="todo">TODO</string>
+    <string name="to_display_the_total_gpa">To display the total GPA</string>
+    <string name="average_of_all_assignments">Average of all assignments:</string>
+    <string name="course_name">Course Name</string>
+    <string name="course_title">Course Title</string>
+    <string name="course_grade" />
+    <string name="course_name_ass">Course Name Ass</string>
+    <string name="course_title_ass">Course Title Ass</string>
+    <string name="delete_course">Delete course</string>
+    <string name="course_code" />
+</resources>
